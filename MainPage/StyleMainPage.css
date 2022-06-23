@@ -17,9 +17,17 @@ html, body{
     padding-top: 60px;
 }
 
+.positionOfFonts{
+
+    position: relative;
+    top: 30%;
+    padding-left: 35%;
+}
+
 .fonts {
 
     font: 15px Arial, sans-serif;
+    color: #ffffff;
 }
 
 /* 
