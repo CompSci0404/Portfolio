@@ -26,8 +26,14 @@ html, body{
 
 .fonts {
 
-    font: 15px Arial, sans-serif;
+    font: 20px Arial, sans-serif;
     color: #ffffff;
+}
+
+.anchor{
+    
+    text-decoration: inherit;
+    color: inherit;
 }
 
 /* 
