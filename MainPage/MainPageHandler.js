@@ -1,5 +1,5 @@
 
-var nameOfWebsite = "Matt Radke's Portfolio";
+var nameOfWebsite = "Matt Radke";
 
 window.onload = function()
 {
